@@ -1,0 +1,14 @@
+ <table>{
+  border-color:rgb(70, 70, 243);}
+img{
+    height: 15pc;
+    weight: 25pc;
+}
+table>{
+background-color: rgb(107, 109, 233);
+    border:2px solid rgb(0, 0, 0);
+}
+td {
+  border:2px solid rgb(0, 0, 0);
+  height: 100px;
+}

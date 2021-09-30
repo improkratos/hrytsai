@@ -1,0 +1,30 @@
+body{
+  background: linear-gradient(90deg, rgba(1,1,22,1) 0%, rgba(6,6,210,1) 22%, rgba(0,204,255,1) 100%);
+  text-align: center;
+}
+img{
+    height: 260px;
+    weight: 340px;
+}
+table {
+  border: 1px solid rgb(0, 0, 0);
+  border-collapse: collapse;
+  color: cornsilk;
+  text-align: center;
+  margin:auto;
+}
+td,tr{
+  border: 2px solid blanchedalmond;
+  width: 200px;
+  height: 100px;
+}
+h1:hover{
+  height: 260px;
+  weight: 340px;
+}
+td:hover{
+  height: 300px;
+  weight: 400px;
+}
+
+  

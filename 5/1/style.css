@@ -1,0 +1,36 @@
+.div1{
+  position: absolute;
+  border: 2px solid rgba(255, 0, 0, 0.993);
+  width: 400px;
+  height: 300px;
+}
+.div2{
+    position: absolute;
+  border: 2px solid rgba(0, 17, 255, 0.993);
+  width: 400px;
+  height: 300px;
+  margin-top: 305px;
+}
+.div3{
+    position: absolute;
+  border: 2px solid rgba(18, 172, 51, 0.993);
+  width: 400px;
+  height: 100px;
+  margin-left: 405px;
+}
+.div4{
+ position: absolute;
+  border: 2px solid rgba(228, 19, 217, 0.993);
+  width: 400px;
+  height: 315px;
+  margin-left: 405px;
+  margin-top: 105px;
+}
+.div5{
+position: absolute;
+  border: 2px solid rgba(255, 123, 0, 0.993);
+  width: 400px;
+  height: 180px;
+  margin-left: 405px;
+  margin-top: 425px;  
+}  

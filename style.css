@@ -1,0 +1,39 @@
+.div1{
+    position: absolute;
+    border: 2px peru;
+    width: 400px;
+    height: 860зч;
+  }
+  .div2{
+      position: absolute;
+    border: none;
+    width: 800px;
+    height: 400px;
+    margin-top: 0px;
+    margin-left: 200px;
+    
+  }
+  .div3{
+    position: absolute;
+    border:2px peru;
+    width: 800px;
+    height: 800px;
+    margin-left: 800px;
+    margin-top: 400px;
+  }
+  .div4{
+   position: absolute;
+    border:2px peru;
+    width: 400px;
+    height: 460px;
+    margin-top:200px;
+  }
+  .div5{
+  position: absolute;
+    border: 2px peru;
+    width: 400px;
+    height: 465px;
+    margin-left:  200px;
+    margin-top: 200px; 
+  }
+ 

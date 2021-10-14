@@ -1,0 +1,77 @@
+.cap{
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    background: linear-gradient(rgb(78, 133, 236), rgb(213, 133, 245));
+    border-radius: 10px;
+}
+.iron{
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    background: linear-gradient(rgb(255, 0, 0), rgb(187, 5, 5));
+    margin-left:305px;
+    border-radius: 10px;}
+.window{
+        position: absolute;
+        width: 300px;
+        height: 200px;
+        background: linear-gradient(rgb(0, 0, 0), rgb(102, 1, 122));
+        margin-left:610px;
+        border-radius: 10px;}
+.spid{
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    background: linear-gradient(rgb(255, 0, 0), rgb(0, 0, 0));
+    margin-left:915px;
+    border-radius: 10px;
+}
+.sup{
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    background: linear-gradient(rgb(0, 0, 0), rgb(179, 5, 5));
+    margin-left:1220px;
+    border-radius: 10px;
+}
+img{ 
+width: 200px;
+height: 225px;}
+
+
+.text1 {
+position: absolute;
+margin-top: -2px;
+margin-left: 175px;
+font-size: 20px;
+color: white;}
+
+.text2{
+    position: absolute;
+    margin-top: -2px;
+    margin-left: 210px;
+}
+.text3{
+    position: absolute;
+    margin-top: -2px;
+    margin-left: 195px;
+}
+.text4{
+    position: absolute;
+    margin-top: -2px;
+    margin-left: 190px;
+}
+.text5 {
+    position: absolute;
+    margin-top: -2px;
+    margin-left: 215px;
+}
+h1{
+    font-size: 20px;
+ color: white;
+}
+p{ 
+font-size: 15px;
+color: white
+    }
